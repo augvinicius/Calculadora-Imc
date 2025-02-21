@@ -1,19 +1,24 @@
 # Calculadora IMC
-Desc
+Aplicativo android de cálculo IMC desenvolvido com linguagem Kotlin.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-Screenshots
+
+
+<img src="https://github.com/user-attachments/assets/65bbd2c0-ab52-4c7c-a7af-cf8e930373cc" width=260d/>
+<img src="https://github.com/user-attachments/assets/63c3a8b2-d23c-4dda-bf5d-45d25d98a2cd" width=260/>
+"
 
 ## Tecnologias
-Techs
+Kotlin
+Android Native
 
 
 ## License
 ```
 The MIT License (MIT)
 
-Copyright (c) 2023 Roque Buarque Junior
+Copyright (c) 2025 Vinicius Augusto.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
